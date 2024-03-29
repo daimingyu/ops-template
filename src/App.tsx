@@ -1,7 +1,6 @@
 import React from 'react';
 
 function App() {
-  let a = "a";
   return (
     <div>
       <h1>Hello, React + TypeScript!</h1>
