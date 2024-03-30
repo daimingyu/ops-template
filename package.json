@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/daimingyu/ops-template/issues"
   },
-  "homepage": "https://github.com/daimingyu/ops-template#readme",
+  "homepage": "https://daimingyu.github.io/ops-template",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
